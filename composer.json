@@ -1,0 +1,35 @@
+{
+    "name": "nader/essance",
+    "description": "A lightweight, single-file PHP framework to modernize legacy projects",
+    "type": "library",
+    "keywords": [
+        "framework",
+        "php",
+        "router",
+        "mvc",
+        "lightweight",
+        "single-file",
+        "legacy",
+        "modernize"
+    ],
+    "homepage": "https://github.com/nadermkhan/essance-framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nader Mahbub Khan",
+            "email": "muhammadnadermahbubkhan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "files": ["src/essance.php"]
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
