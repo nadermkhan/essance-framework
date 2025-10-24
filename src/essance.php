@@ -3,7 +3,7 @@
  * Essance Framework v1.0.0
  * A lightweight, single-file PHP framework to modernize legacy projects
  * 
- * @author Muhammad Nader Mahbub Khan
+ * @author Nader Mahbub Khan
  * @version 1.0.0
  * @license MIT
  */
